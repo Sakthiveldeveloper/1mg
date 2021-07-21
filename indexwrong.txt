@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>HomePage</title>
+        <link href="1mglogoc.png" rel=icon type="image/png">
+    </head>
+    <body>
+        <header>
+            <div>
+                <center>
+                    <span>
+                        <a href="https://www.1mg.com/" target="_blank"><img src="tata_1mg_logo.svg" alt="1mg India's Largest Healthcare plotform" width="70" height="70" type="image/svg">
+                        </a>
+                    </span>
+                    <span>
+                        <a href="https://www.1mg.com/" alt="1mg.com/" target="_blank">
+                        <h3>Medicine</h3>
+                        </a>
+                    </span>
+                </center>
+            </div>
+            <hr>
+        </header>
+        <footer></footer>
+    </body>
+</html>
